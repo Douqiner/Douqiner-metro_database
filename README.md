@@ -5,7 +5,7 @@
 本项目由3个程序构成，基本（主要是第一个）都由之前的项目衍生而成
 
 ## 程序1：pro1_tupo
-在本人项目 metro_system [metro_system](https://github.com/Douqiner/metro_system)
+在本人项目 [metro_system](https://github.com/Douqiner/metro_system)
 的基础上加入了保存至数据库功能
 ![save_to_base](/static_show/save_to_base.png)
 
